@@ -1,0 +1,2 @@
+Sudoku solver using backtracking. Simply input sudoku board into playground list as a series of lists and run solver function. 
+You also need to run the print_playground function to see the state of the board.
